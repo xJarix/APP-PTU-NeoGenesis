@@ -1,0 +1,2 @@
+a18f7dac691cc8ceccd7cf4327e279d3bcb36ea3685a5a55b100dd4e136894a9  PTU-NeoGenesis-Beta-1.2-Android.apk
+a7da4948d582198d76c0143e7d9538c9cc1955cc55548797fad65ff165f9e01b  PTU-NeoGenesis-Beta-1.2-Windows-x64.exe

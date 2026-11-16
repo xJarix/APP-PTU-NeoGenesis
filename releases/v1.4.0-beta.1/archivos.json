@@ -1,0 +1,22 @@
+{
+  "tag": "v1.4.0-beta.1",
+  "title": "Beta 1.4",
+  "prerelease": true,
+  "files": [
+    {
+      "name": "PTU-NeoGenesis-Beta-1.4-Android.apk",
+      "bytes": 518800458,
+      "sha256": "968fdeaaa5c2f6b8d472dcf35e966a6a12746fd50843fae92893ef1d1900df45"
+    },
+    {
+      "name": "PTU-NeoGenesis-Beta-1.4-Windows-x64.exe",
+      "bytes": 606199943,
+      "sha256": "59015883fb7d257bee6c89dacc720d468e04d8efd02328a93a4a04870ef4ed2f"
+    },
+    {
+      "name": "PTU-NeoGenesis-Beta-1.4-Instalador-Windows-x64.exe",
+      "bytes": 619554728,
+      "sha256": "55f2ed6a83b2b8beea99ed994e505687e973e2eec0840f169aba4a09e8d09a1c"
+    }
+  ]
+}

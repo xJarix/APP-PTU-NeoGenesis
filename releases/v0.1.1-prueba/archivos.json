@@ -1,0 +1,12 @@
+{
+  "tag": "v0.1.1-prueba",
+  "title": "Prueba 0.1.1",
+  "prerelease": true,
+  "files": [
+    {
+      "name": "PTU-NeoGenesis-0.1.1-prueba.apk",
+      "bytes": 9638763,
+      "sha256": "4eccd8e2af1ce1c8921e3a504e46e749fa8ef562cd0b14a6365b2d906f639818"
+    }
+  ]
+}

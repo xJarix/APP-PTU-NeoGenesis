@@ -1,0 +1,17 @@
+{
+  "tag": "v1.0.0-beta.1",
+  "title": "Beta 1.0",
+  "prerelease": true,
+  "files": [
+    {
+      "name": "PTU-NeoGenesis-Beta-1.0-prueba.apk",
+      "bytes": 10973793,
+      "sha256": "0cd9a5cc768d6d3c7c89c6ff9a882539d9d9acf609734ecfe0b603dfc1da5365"
+    },
+    {
+      "name": "PTU-NeoGenesis-Beta-1.0-Windows-x64.exe",
+      "bytes": 118686541,
+      "sha256": "4ee1a78d556fa01665d18840ba51e6baab9343535c5239e1c6cf21edefe61a6a"
+    }
+  ]
+}

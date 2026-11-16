@@ -1,0 +1,12 @@
+{
+  "tag": "v1.0.0-beta.2",
+  "title": "Beta 1.0 · Revisión 2 de Windows",
+  "prerelease": true,
+  "files": [
+    {
+      "name": "PTU-NeoGenesis-Beta-1.0-Windows-x64-v2.exe",
+      "bytes": 118688467,
+      "sha256": "4ae4d2bfb6615eaba17467c5b4a8172e72b7d5c07b56b19a03207d68da7c3a9b"
+    }
+  ]
+}
