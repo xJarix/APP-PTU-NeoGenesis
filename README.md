@@ -27,6 +27,10 @@ Las versiones están marcadas como preliminares para pruebas. Las descargas de e
 
 Windows portátil e instalado utilizan `%APPDATA%\PTU NeoGenesis` para guardar las fichas. La Beta 1.4 mantiene el identificador y la firma de Android de la Beta 1.3. Puedes trasladar entrenadores entre dispositivos mediante Exportar Ficha e importar el archivo JSON.
 
+## Feedback
+
+Se ha creado un doc de Google publico para notificar bugs o sugerencias de mejora: https://docs.google.com/document/d/1KDZnZ8vqaEb701n5ye7If4uh5if4sMkzxAuwNuLmVJ4/edit?tab=t.0
+
 ## Alcance del archivo
 
 Se han conservado 11 binarios distintos en seis releases. El archivo llamado `PTU-NeoGenesis-test.apk` coincide con el APK Beta 1.0 y no se publica como una versión adicional.
