@@ -1,0 +1,3 @@
+52c69cb764bf1a8bc3eeebf351e41db34d965037e9cea97d2127aa8c559f559a  PTU-NeoGenesis-Beta-1.5-Android.apk
+605479cbbe6848835082225c23d327192d9e4017fcad6df64ad42cc18afb8b10  PTU-NeoGenesis-Beta-1.5-Windows-x64.exe
+89164e7989127165f84616f156af504749b73ef59b71680ff611187b894d7fd7  PTU-NeoGenesis-Beta-1.5-Instalador-Windows-x64.exe
